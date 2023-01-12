@@ -1,0 +1,30 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-183aad3a34d-5ce9643807c47b37": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "NFLDRAFTPROJECT",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "/Users/zacharyclarke/Desktop/DATA BOOTCAMP/PROJECTS /FULLSTACK DATA COHORT/NFL DRAFT PROJECT/SQL Project Folder/NFLDRAFTPROJECT",
+				"url": "jdbc:sqlite:/Users/zacharyclarke/Desktop/DATA BOOTCAMP/PROJECTS /FULLSTACK DATA COHORT/NFL DRAFT PROJECT/SQL Project Folder/NFLDRAFTPROJECT",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
