@@ -9,9 +9,9 @@ The original dataset contained 4626 rows and 26 columns.
 I focused my project on the exploration of combine result for each specific position. 
 
 The following questions lead my analysis: 
-•	What position is most picked in the draft? 
-•	Which colleges have the most drafted players? 
-•	What physical attributes does a typical draftee have? 
-•	How Important is the Combine to finding players who are successful in the NFL?
+-	What position is most picked in the draft? 
+-	Which colleges have the most drafted players? 
+- What physical attributes does a typical draftee have? 
+- How Important is the Combine to finding players who are successful in the NFL?
 
 This project was completed using SQL, Excel, Tableau, and PowerPoint. 
